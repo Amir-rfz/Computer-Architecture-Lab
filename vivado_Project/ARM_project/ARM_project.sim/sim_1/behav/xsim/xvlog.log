@@ -1,0 +1,74 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/ARM_project/ARM_project.srcs/sources_1/new/IF_Stage_Reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IF_Stage_Reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/ARM_project/ARM_project.srcs/sources_1/new/Adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/VScode_files/ID/Mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/ARM_project/ARM_project.srcs/sources_1/new/PC_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/ARM_project/ARM_project.srcs/sources_1/new/IF.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IF
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/VScode_files/ID/IDReg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IDReg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/VScode_files/ID/ConditionCheck.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ConditionCheck
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/VScode_files/ID/ControlUnit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ControlUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/VScode_files/ID/RegisterFile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegisterFile
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/VScode_files/ID/ID.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ID
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/VScode_files/ID/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/VScode_files/ID/Mux4to1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mux4to1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/VScode_files/ID/val2gen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Val2Generate
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/VScode_files/ID/Exe.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Exe
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/VScode_files/ID/ExeReg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ExeReg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/VScode_files/ID/StatusReg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module StatusReg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/VScode_files/MEMReg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MEMReg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/VScode_files/WbStage.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module WbStage
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/VScode_files/ID/hazard_detection_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hazard_detection_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/VScode_files/ID/forwarding_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module forwarding_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/ARM_project/ARM_project.ip_user_files/bd/design_1/ip/design_1_IF_Stage_Reg_0_0/sim/design_1_IF_Stage_Reg_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_IF_Stage_Reg_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/ARM_project/ARM_project.ip_user_files/bd/design_1/ip/design_1_IF_1_1/sim/design_1_IF_1_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_IF_1_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/ARM_project/ARM_project.ip_user_files/bd/design_1/ip/design_1_IDReg_0_0/sim/design_1_IDReg_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_IDReg_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/ARM_project/ARM_project.ip_user_files/bd/design_1/sim/design_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/ARM_project/ARM_project.ip_user_files/bd/design_1/ip/design_1_ID_0_0/sim/design_1_ID_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_ID_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/ARM_project/ARM_project.ip_user_files/bd/design_1/ip/design_1_Exe_0_0/sim/design_1_Exe_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_Exe_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/ARM_project/ARM_project.ip_user_files/bd/design_1/ip/design_1_ExeReg_0_0/sim/design_1_ExeReg_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_ExeReg_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/ARM_project/ARM_project.ip_user_files/bd/design_1/ip/design_1_dist_mem_gen_0_0/sim/design_1_dist_mem_gen_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_dist_mem_gen_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/ARM_project/ARM_project.ip_user_files/bd/design_1/ip/design_1_StatusReg_0_0/sim/design_1_StatusReg_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_StatusReg_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/ARM_project/ARM_project.ip_user_files/bd/design_1/ip/design_1_dist_mem_gen_1_0/sim/design_1_dist_mem_gen_1_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_dist_mem_gen_1_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/ARM_project/ARM_project.ip_user_files/bd/design_1/ip/design_1_MEMReg_0_0/sim/design_1_MEMReg_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_MEMReg_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/ARM_project/ARM_project.ip_user_files/bd/design_1/ip/design_1_WbStage_0_0/sim/design_1_WbStage_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_WbStage_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/ARM_project/ARM_project.ip_user_files/bd/design_1/ip/design_1_hazard_detection_unit_0_0/sim/design_1_hazard_detection_unit_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_hazard_detection_unit_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/ARM_project/ARM_project.ip_user_files/bd/design_1/ip/design_1_ila_0_0/sim/design_1_ila_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_ila_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/ARM_project/ARM_project.ip_user_files/bd/design_1/ip/design_1_forwarding_unit_0_0/sim/design_1_forwarding_unit_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_forwarding_unit_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/ARM_project/ARM_project.srcs/sources_1/bd/design_1/hdl/design_1_wrapper.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_wrapper
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Amin/Documents/Computer_Arch_Lab/ARM/ARM_project/ARM_project.srcs/sim_1/new/testbench_IFstage.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench_IFstage

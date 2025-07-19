@@ -1,0 +1,1 @@
+-wto "f184e547eecc405b9e8002741707f57d" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "dist_mem_gen_v8_0_12" -L "unisims_ver" -L "unimacro_ver" -L "secureip" -L "xpm" --snapshot "testbench_IFstage_behav" "xil_defaultlib.testbench_IFstage" "xil_defaultlib.glbl" -log "elaborate.log" 

@@ -1,0 +1,100 @@
+{
+   "ExpandedHierarchyInLayout":"",
+   "PinnedBlocks":"",
+   "PinnedPorts":"",
+   "guistr":"# # String gsaved with Nlview 6.8.11  2018-08-07 bk=1.4403 VDI=40 GEI=35 GUI=JA:9.0 non-TLS
+#  -string -flagsOSRD
+preplace port rst_1 -pg 1 -y 1480 -defaultsOSRD
+preplace port clk_0 -pg 1 -y 720 -defaultsOSRD
+preplace inst vio_0 -pg 1 -lvl 2 -y 490 -defaultsOSRD
+preplace inst IF_1 -pg 1 -lvl 3 -y 680 -defaultsOSRD
+preplace inst IF_Stage_Reg_0 -pg 1 -lvl 5 -y 670 -defaultsOSRD
+preplace inst hazard_detection_unit_0 -pg 1 -lvl 1 -y 370 -defaultsOSRD
+preplace inst ExeReg_0 -pg 1 -lvl 9 -y 630 -defaultsOSRD
+preplace inst dist_mem_gen_0 -pg 1 -lvl 4 -y 720 -defaultsOSRD
+preplace inst debouncer_0 -pg 1 -lvl 5 -y 1150 -defaultsOSRD
+preplace inst dist_mem_gen_1 -pg 1 -lvl 3 -y 380 -defaultsOSRD
+preplace inst MEMReg_0 -pg 1 -lvl 4 -y 330 -defaultsOSRD
+preplace inst forwarding_unit_0 -pg 1 -lvl 7 -y 870 -defaultsOSRD
+preplace inst Exe_0 -pg 1 -lvl 1 -y 1190 -defaultsOSRD
+preplace inst ila_0 -pg 1 -lvl 10 -y 130 -defaultsOSRD
+preplace inst WbStage_0 -pg 1 -lvl 5 -y 300 -defaultsOSRD
+preplace inst ID_0 -pg 1 -lvl 6 -y 220 -defaultsOSRD
+preplace inst StatusReg_0 -pg 1 -lvl 5 -y 910 -defaultsOSRD
+preplace inst IDReg_0 -pg 1 -lvl 8 -y 220 -defaultsOSRD
+preplace netloc IDReg_0_imm_24_o 1 0 9 -540J 790 NJ 790 NJ 790 NJ 790 NJ 790 2720J 730 NJ 730 N 730 4190
+preplace netloc IDReg_0_val_rn_o 1 0 9 -490J 980 NJ 980 NJ 980 NJ 980 2040J 1010 NJ 1010 NJ 1010 N 1010 4250
+preplace netloc IDReg_0_s_o 1 4 5 2100 1000 NJ 1000 NJ 1000 N 1000 4260
+preplace netloc IF_1_temp_pc 1 3 1 900
+preplace netloc IDReg_0_dest_o 1 0 9 -570J -160 NJ -160 NJ -160 NJ -160 NJ -160 NJ -160 NJ -160 N -160 4290
+preplace netloc ID_0_out_b 1 6 2 N 110 3780
+preplace netloc ID_0_out_exe_cmd 1 6 2 N 70 3760
+preplace netloc IDReg_0_imm_o 1 0 9 -550J 650 NJ 650 480J 500 NJ 500 NJ 500 2730J 520 NJ 520 N 520 4230
+preplace netloc IDReg_0_b_o 1 2 7 540J 510 860J 520 2070 -170 NJ -170 N -170 3770 -90 4180
+preplace netloc ExeReg_0_ST_val 1 2 8 530J 780 NJ 780 NJ 780 2710J 720 NJ 720 NJ 720 4320J 760 4710
+preplace netloc Exe_0_status 1 1 4 90J 970 NJ 970 NJ 970 2080
+preplace netloc IDReg_0_status_o 1 0 9 -560J 670 NJ 670 520J 530 NJ 530 NJ 530 2710J 540 NJ 540 N 540 4200
+preplace netloc IDReg_0_wb_en_o 1 0 9 -540J -140 NJ -140 NJ -140 NJ -140 NJ -140 NJ -140 NJ -140 N -140 4310
+preplace netloc IDReg_0_shift_operand_o 1 0 9 -530J 810 NJ 810 NJ 810 NJ 810 NJ 810 2760J 750 NJ 750 N 750 4210
+preplace netloc hazard_detection_unit_0_hazard_detected 1 1 5 N 370 490J 210 NJ 210 2110 180 NJ
+preplace netloc IDReg_0_src2_o 1 6 3 3330 560 NJ 560 4160
+preplace netloc forwarding_unit_0_sel_src1 1 0 8 -600 580 NJ 580 NJ 580 NJ 580 2090J 540 2650J 580 NJ 580 3700
+preplace netloc ID_0_src1 1 0 8 -520J -130 NJ -130 NJ -130 NJ -130 NJ -130 NJ -130 3340 380 N
+preplace netloc WbStage_0_wb_dest 1 5 1 N
+preplace netloc MEMReg_0_data_mem_o 1 4 1 2050
+preplace netloc ID_0_out_mem_w_en 1 6 2 N 130 3700
+preplace netloc forwarding_unit_0_sel_src2 1 0 8 -590 600 NJ 600 500J 560 NJ 560 2080J 520 2720J 550 NJ 550 3760
+preplace netloc ID_0_src2 1 0 8 -510J -120 NJ -120 NJ -120 NJ -120 NJ -120 NJ -120 3330 400 N
+preplace netloc WbStage_0_wb_value 1 0 6 -580 230 N 230 N 230 880 450 N 450 2680
+preplace netloc IF_1_PC 1 3 2 900 660 2030J
+preplace netloc ID_0_val_rm 1 6 2 N 50 3720
+preplace netloc rst_1_1 1 2 8 550J 540 890J 540 2050J 820 2690 -70 N -70 3780 -70 4280 200 N
+preplace netloc ExeReg_0_Dest 1 0 10 -500J 200 NJ 200 N 200 910 -180 NJ -180 NJ -180 3320J 470 NJ 470 NJ 470 4740
+preplace netloc dist_mem_gen_1_spo 1 3 1 860
+preplace netloc ID_0_shift_operand 1 6 2 N 250 3700
+preplace netloc ID_0_val_rn 1 6 2 N 30 3730
+preplace netloc rst_1_2 1 0 5 -630J 990 NJ 990 NJ 990 NJ 990 2030
+preplace netloc ID_0_signed_imm_24 1 6 2 N 270 3690
+preplace netloc forward_en_0_1 1 0 7 -530J 570 NJ 570 450J 570 NJ 570 2100J 560 2630J 930 NJ
+preplace netloc ID_0_two_src 1 0 7 -530J -110 NJ -110 NJ -110 NJ -110 NJ -110 NJ -110 3210
+preplace netloc IDReg_0_exe_cmd_o 1 0 9 -520J 560 NJ 560 460J 520 880J 510 NJ 510 NJ 510 NJ 510 N 510 4180
+preplace netloc ExeReg_0_MEM_R_EN 1 3 7 930J 470 NJ 470 2760J 490 3210J 480 NJ 480 NJ 480 4730
+preplace netloc dist_mem_gen_0_spo 1 4 1 NJ
+preplace netloc ID_0_out_pc 1 6 2 N 10 3740
+preplace netloc ID_0_out_s 1 6 2 N 90 3780
+preplace netloc MEMReg_0_dest_o 1 4 3 2100 -100 N -100 3290
+preplace netloc ExeReg_0_MEM_W_EN 1 2 8 550J 470 870J 490 NJ 490 2750J 500 3220J 490 NJ 490 NJ 490 4720
+preplace netloc IDReg_0_mem_w_en_o 1 0 9 -510J 660 NJ 660 470J 480 NJ 480 NJ 480 2740J 530 NJ 530 N 530 4270
+preplace netloc clk_0_1 1 0 10 -640 590 80 590 510 290 870 460 2060 140 2760 -80 N -80 3790J -80 4330J -10 4790
+preplace netloc Exe_0_BR_addr 1 1 2 80 720 N
+preplace netloc MEMReg_0_alu_res_o 1 4 1 2040
+preplace netloc Exe_0_ALU_result 1 1 8 NJ 1160 NJ 1160 NJ 1160 2030J 1220 2730J 690 NJ 690 N 690 4280
+preplace netloc ID_0_dest 1 6 2 N 230 3710
+preplace netloc ID_0_out_mem_r_en 1 6 2 N 150 3690
+preplace netloc ID_0_r1 1 6 4 3240J -50 NJ -50 NJ -50 4810
+preplace netloc IF_Stage_Reg_0_Instruction 1 5 1 2660
+preplace netloc WbStage_0_wb_wb_en 1 5 1 2650
+preplace netloc ID_0_r2 1 6 4 3260J -40 NJ -40 NJ -40 4800
+preplace netloc ID_0_r3 1 6 4 3240J 420 3700J 460 NJ 460 4800
+preplace netloc ID_0_r4 1 6 4 3280J -30 NJ -30 NJ -30 4780
+preplace netloc ID_0_out_imm 1 6 2 3270 140 N
+preplace netloc MEMReg_0_mem_r_en_o 1 4 1 2040
+preplace netloc ExeReg_0_ALU_result 1 0 10 -610 210 N 210 450 240 900 -190 NJ -190 NJ -190 NJ -190 NJ -190 NJ -190 4750
+preplace netloc StatusReg_0_out 1 5 3 2700 -60 3310 240 N
+preplace netloc ID_0_r5 1 6 4 3300J -20 NJ -20 NJ -20 4770
+preplace netloc IDReg_0_val_rm_o 1 0 9 -570J 550 NJ 550 NJ 550 NJ 550 NJ 550 2640J 570 NJ 570 N 570 4220
+preplace netloc ID_0_r6 1 6 4 NJ 430 3750J -60 4300J 0 4760
+preplace netloc ExeReg_0_WB_en 1 0 10 -490J 220 NJ 220 N 220 920 -50 NJ -50 NJ -50 3230J 500 NJ 500 NJ 500 4710
+preplace netloc Exe_0_Val_Rm_out 1 1 8 80 1230 NJ 1230 NJ 1230 NJ 1230 2750J 710 NJ 710 NJ 710 4330J
+preplace netloc MEMReg_0_wb_en_o 1 4 3 2030 -90 N -90 3250
+preplace netloc IDReg_0_mem_r_en_o 1 0 9 -620J -150 NJ -150 NJ -150 NJ -150 NJ -150 NJ -150 NJ -150 N -150 4320
+preplace netloc IDReg_0_src1_o 1 6 3 3340 700 NJ 700 4170
+preplace netloc IDReg_0_pc_o 1 0 9 -500J 800 NJ 800 NJ 800 NJ 800 NJ 800 2740J 740 NJ 740 N 740 4240
+preplace netloc IF_Stage_Reg_0_PC 1 5 1 2670
+preplace netloc ID_0_out_wb_en 1 6 2 N 170 3690
+levelinfo -pg 1 -660 -100 350 710 1870 2470 3050 3540 3990 4550 4920 5030 -top -570 -bot 1500
+"
+}
+{
+   "da_clkrst_cnt":"11"
+}

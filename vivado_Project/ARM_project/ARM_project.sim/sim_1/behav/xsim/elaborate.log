@@ -1,0 +1,51 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto f184e547eecc405b9e8002741707f57d --incr --debug typical --relax --mt 2 -L xil_defaultlib -L dist_mem_gen_v8_0_12 -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot testbench_IFstage_behav xil_defaultlib.testbench_IFstage xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.ExeReg
+Compiling module xil_defaultlib.design_1_ExeReg_0_0
+Compiling module xil_defaultlib.Val2Generate
+Compiling module xil_defaultlib.ALU
+Compiling module xil_defaultlib.Mux4to1
+Compiling module xil_defaultlib.Exe
+Compiling module xil_defaultlib.design_1_Exe_0_0
+Compiling module xil_defaultlib.IDReg
+Compiling module xil_defaultlib.design_1_IDReg_0_0
+Compiling module xil_defaultlib.Mux(WIDTH=4)
+Compiling module xil_defaultlib.RegisterFile
+Compiling module xil_defaultlib.ControlUnit
+Compiling module xil_defaultlib.ConditionCheck
+Compiling module xil_defaultlib.ID
+Compiling module xil_defaultlib.design_1_ID_0_0
+Compiling module xil_defaultlib.Mux
+Compiling module xil_defaultlib.Adder
+Compiling module xil_defaultlib.PC_reg
+Compiling module xil_defaultlib.IF
+Compiling module xil_defaultlib.design_1_IF_1_1
+Compiling module xil_defaultlib.IF_Stage_Reg
+Compiling module xil_defaultlib.design_1_IF_Stage_Reg_0_0
+Compiling module xil_defaultlib.MEMReg
+Compiling module xil_defaultlib.design_1_MEMReg_0_0
+Compiling module xil_defaultlib.StatusReg
+Compiling module xil_defaultlib.design_1_StatusReg_0_0
+Compiling module xil_defaultlib.WbStage
+Compiling module xil_defaultlib.design_1_WbStage_0_0
+Compiling module dist_mem_gen_v8_0_12.dist_mem_gen_v8_0_12(C_FAMILY="z...
+Compiling module xil_defaultlib.design_1_dist_mem_gen_0_0
+Compiling module dist_mem_gen_v8_0_12.dist_mem_gen_v8_0_12(C_FAMILY="z...
+Compiling module xil_defaultlib.design_1_dist_mem_gen_1_0
+Compiling module xil_defaultlib.forwarding_unit
+Compiling module xil_defaultlib.design_1_forwarding_unit_0_0
+Compiling module xil_defaultlib.hazard_detection_unit
+Compiling module xil_defaultlib.design_1_hazard_detection_unit_0...
+Compiling module xil_defaultlib.design_1_ila_0_0
+Compiling module xil_defaultlib.design_1
+Compiling module xil_defaultlib.design_1_wrapper
+Compiling module xil_defaultlib.testbench_IFstage
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot testbench_IFstage_behav
