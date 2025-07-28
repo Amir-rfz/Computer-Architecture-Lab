@@ -3,7 +3,7 @@
 ## ARM-Based Simple Processor Design and Implementation
 
 ### Overview
-This project involves the design and implementation of a simple processor based on the ARM architecture. The processor is capable of executing basic operations and is implemented using Verilog. The design process includes simulation, synthesis, and testing on an FPGA board. The project also explores various optimization techniques such as forwarding, hazard detection, cache implementation, and SRAM integration. For more information you can read the [Report](./report/ComputerArchitectureLabReport_810101381_810101604_810100269).
+This project involves the design and implementation of a simple processor based on the ARM architecture. The processor is capable of executing basic operations and is implemented using Verilog. The design process includes simulation, synthesis, and testing on an FPGA board. The project also explores various optimization techniques such as forwarding, hazard detection, cache implementation, and SRAM integration. For more information you can read the [Report](./report/ComputerArchitectureLabReport_810101381_810101604_810100269.pdf).
 
 ### Project Structure
 The project is divided into several stages, each focusing on a specific aspect of the processor design:
